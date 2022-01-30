@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyfe/bbq.git"
+    "url": "git+https://github.com/BBQDE/whatsapp-bot.git"
   },
   "keywords": [
     "whatsapp",
     "whatsapp bot",
     "user bot"
   ],
-  "author": "lyfe",
+  "author": "BBQDE",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/lyfe/bbq/issues"
+    "url": "https://github.com/BBQDE/whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/lyfe/bbq#readme",
+  "homepage": "https://github.com/BBQDE/whatsapp-bot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
